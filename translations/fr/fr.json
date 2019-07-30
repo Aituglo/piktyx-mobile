@@ -1,0 +1,13 @@
+{
+  "HEADER_HOME": "Bienvenue",
+  "HEADER_MAIN": "Accueil",
+  "HEADER_PROFILE": "Mon Profil",
+  "WELCOME_SCREEN": "Bienvenue sur Piktyx !",
+  "AUTH_EMAIL": "Email",
+  "AUTH_USERNAME": "Username",
+  "AUTH_PASSWORD": "Mot de Passe",
+  "AUTH_LOGOUT": "Se Deconnecter",
+  "AUTH_LOGIN": "Se Connecter",
+  "AUTH_REGISTER": "S'inscrire",
+  "AUTH_ACCOUNT_TITLE": "Mon Profil"
+}
